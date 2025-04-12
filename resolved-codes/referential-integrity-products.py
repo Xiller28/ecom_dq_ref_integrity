@@ -11,5 +11,7 @@ invalid_products.show()
 
 invalid_products.write.mode("overwrite").json(r"D:\Data Engineering\ecom-dq\dq-files\invalid_data\invalid_products")
 
+valid_products = orders.join(products, on="product_id", how="leftsemi")
+valid_products.show()
 
-
+valid_products.write.mode("overwrite").json(r"D:\Data Engineering\ecom-dq\dq-files\valid_data\valid_products")

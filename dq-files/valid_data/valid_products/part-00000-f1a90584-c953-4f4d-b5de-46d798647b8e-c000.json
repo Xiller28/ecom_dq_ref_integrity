@@ -1,0 +1,6 @@
+{"product_id":"PROD901","customer_id":"CUST901","order_date":"2024-05-01T10:00:00","order_id":"ORD901","order_status":"Delivered","price":2999.0,"quantity":1}
+{"product_id":"PROD902","customer_id":"CUST902","order_date":"2024-05-02T12:00:00","order_id":"ORD902","order_status":"Shipped","price":1499.0,"quantity":2}
+{"product_id":"PROD903","customer_id":"CUST904","order_date":"2024-05-04T15:15:00","order_id":"ORD904","order_status":"Delivered","price":899.0,"quantity":3}
+{"product_id":"PROD904","customer_id":"CUST905","order_date":"2024-05-05T13:45:00","order_id":"ORD905","order_status":"Cancelled","price":5999.0,"quantity":1}
+{"product_id":"PROD902","customer_id":"CUST907","order_date":"2024-05-07T08:40:00","order_id":"ORD907","order_status":"Delivered","price":1499.0,"quantity":1}
+{"product_id":"PROD901","customer_id":"CUST908","order_date":"2024-05-08T11:10:00","order_id":"ORD908","order_status":"Pending","price":2999.0,"quantity":1}

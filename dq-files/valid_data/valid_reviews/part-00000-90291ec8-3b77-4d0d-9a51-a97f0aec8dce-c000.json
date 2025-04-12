@@ -1,0 +1,5 @@
+{"customer_id":"CUST1001","product_id":"PROD1001","rating":5,"review_date":"2024-06-01T10:00:00","review_id":"REV1001","review_text":"Excellent tablet!"}
+{"customer_id":"CUST1002","product_id":"PROD1002","rating":4,"review_date":"2024-06-02T14:30:00","review_id":"REV1002","review_text":"Works well."}
+{"customer_id":"CUST1003","product_id":"PROD1003","rating":5,"review_date":"2024-06-05T16:00:00","review_id":"REV1005","review_text":"Great value for money."}
+{"customer_id":"CUST1002","product_id":"PROD1001","rating":4,"review_date":"2024-06-06T18:20:00","review_id":"REV1006","review_text":"Very handy and portable."}
+{"customer_id":"CUST1001","product_id":"PROD1003","rating":5,"review_date":"2024-06-07T12:40:00","review_id":"REV1007","review_text":"Highly recommended."}

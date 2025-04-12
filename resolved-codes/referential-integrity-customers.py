@@ -10,3 +10,8 @@ invalid_customers = orders.join(customers, on='customer_id', how='left_anti')
 invalid_customers.show()
 
 invalid_customers.write.mode("overwrite").json(r"D:\Data Engineering\ecom-dq\dq-files\invalid_data\invalid_customers")
+
+valid_customers = orders.join(customers, on='customer_id', how='left_semi')
+valid_customers.show()
+
+valid_customers.write.mode("overwrite").json(r"D:\Data Engineering\ecom-dq\dq-files\valid_data\valid_customers")
